@@ -8,9 +8,11 @@
 
 ## 目录
 
-链接: https://pan.baidu.com/s/12TIqchshyFtK2AdYWzGY9A 
+**所有资料都打包好了，直达自取**
 
-提取码: 9xi6 
+链接: https://pan.baidu.com/s/1j4MStHWnEZWlOO4iWK2NOw
+
+提取码: 1bor 
 
 * [程序员必读](#程序员必读)
 * [算法和数据结构](#算法和数据结构)
