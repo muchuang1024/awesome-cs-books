@@ -10,9 +10,8 @@
 
 **所有资料都打包好了，直达自取**
 
-链接: https://pan.baidu.com/s/1j4MStHWnEZWlOO4iWK2NOw
-
-提取码: 1bor 
+「技术专题」https://www.aliyundrive.com/s/By6RsSoUsDX
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 
 * [程序员必读](#程序员必读)
 * [算法和数据结构](#算法和数据结构)
